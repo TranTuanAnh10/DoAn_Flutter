@@ -1,6 +1,9 @@
 # food_app
 
 A new Flutter project.
+jdk 21
+android studio 2024.3.1.13
+flutter 3.29.1
 
 ## Getting Started
 

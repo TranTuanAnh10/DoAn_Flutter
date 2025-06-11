@@ -1,0 +1,2 @@
+D:/2025/DoAnChuyenNganh/shop_app/android/app/.cxx/Debug/2g4s251y/x86/CMakeFiles/edit_cache.dir
+D:/2025/DoAnChuyenNganh/shop_app/android/app/.cxx/Debug/2g4s251y/x86/CMakeFiles/rebuild_cache.dir
